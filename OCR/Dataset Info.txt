@@ -1,0 +1,3 @@
+This OCR example uses the Optical Recognition of Handwritten Digits dataset crom the UCI repository.
+The dataset can be found here:
+http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
